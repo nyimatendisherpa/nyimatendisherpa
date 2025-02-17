@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  Nyimaf Tendi Sherpa <br><br>- 🔭 I’m working as Data Engineer at Rubiex <br>
+<p align="left">I'm  Nyimaf Tendi Sherpa <br><br>- 🔭 I’m working as Data Engineer and Explorer <br>
 <!--   📚 I'm currently learning ...<br>- ⚡ In my free time I ... -->
 </p>
 
